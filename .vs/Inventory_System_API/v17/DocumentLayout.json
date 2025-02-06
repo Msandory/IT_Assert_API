@@ -1,0 +1,411 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sandile.Nkambule\\Desktop\\mY STUFF\\GITHUB\\Inventory_System_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F798D80B-8AC0-4665-AD13-67A44FFCBF8C}|Inventory_System_API.csproj|c:\\users\\sandile.nkambule\\desktop\\my stuff\\github\\inventory_system_api\\models\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F798D80B-8AC0-4665-AD13-67A44FFCBF8C}|Inventory_System_API.csproj|solutionrelative:models\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F798D80B-8AC0-4665-AD13-67A44FFCBF8C}|Inventory_System_API.csproj|c:\\users\\sandile.nkambule\\desktop\\my stuff\\github\\inventory_system_api\\services_interfaces\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F798D80B-8AC0-4665-AD13-67A44FFCBF8C}|Inventory_System_API.csproj|solutionrelative:services_interfaces\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F798D80B-8AC0-4665-AD13-67A44FFCBF8C}|Inventory_System_API.csproj|c:\\users\\sandile.nkambule\\desktop\\my stuff\\github\\inventory_system_api\\models\\devicedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F798D80B-8AC0-4665-AD13-67A44FFCBF8C}|Inventory_System_API.csproj|solutionrelative:models\\devicedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F798D80B-8AC0-4665-AD13-67A44FFCBF8C}|Inventory_System_API.csproj|c:\\users\\sandile.nkambule\\desktop\\my stuff\\github\\inventory_system_api\\models\\devicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F798D80B-8AC0-4665-AD13-67A44FFCBF8C}|Inventory_System_API.csproj|solutionrelative:models\\devicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F798D80B-8AC0-4665-AD13-67A44FFCBF8C}|Inventory_System_API.csproj|c:\\users\\sandile.nkambule\\desktop\\my stuff\\github\\inventory_system_api\\logs\\log20250206.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F798D80B-8AC0-4665-AD13-67A44FFCBF8C}|Inventory_System_API.csproj|solutionrelative:logs\\log20250206.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F798D80B-8AC0-4665-AD13-67A44FFCBF8C}|Inventory_System_API.csproj|c:\\users\\sandile.nkambule\\desktop\\my stuff\\github\\inventory_system_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F798D80B-8AC0-4665-AD13-67A44FFCBF8C}|Inventory_System_API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F798D80B-8AC0-4665-AD13-67A44FFCBF8C}|Inventory_System_API.csproj|c:\\users\\sandile.nkambule\\desktop\\my stuff\\github\\inventory_system_api\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F798D80B-8AC0-4665-AD13-67A44FFCBF8C}|Inventory_System_API.csproj|solutionrelative:controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F798D80B-8AC0-4665-AD13-67A44FFCBF8C}|Inventory_System_API.csproj|c:\\users\\sandile.nkambule\\desktop\\my stuff\\github\\inventory_system_api\\services_interfaces\\turnstileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F798D80B-8AC0-4665-AD13-67A44FFCBF8C}|Inventory_System_API.csproj|solutionrelative:services_interfaces\\turnstileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F798D80B-8AC0-4665-AD13-67A44FFCBF8C}|Inventory_System_API.csproj|c:\\users\\sandile.nkambule\\desktop\\my stuff\\github\\inventory_system_api\\models\\devicestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F798D80B-8AC0-4665-AD13-67A44FFCBF8C}|Inventory_System_API.csproj|solutionrelative:models\\devicestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F798D80B-8AC0-4665-AD13-67A44FFCBF8C}|Inventory_System_API.csproj|c:\\users\\sandile.nkambule\\desktop\\my stuff\\github\\inventory_system_api\\models\\devices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F798D80B-8AC0-4665-AD13-67A44FFCBF8C}|Inventory_System_API.csproj|solutionrelative:models\\devices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F798D80B-8AC0-4665-AD13-67A44FFCBF8C}|Inventory_System_API.csproj|c:\\users\\sandile.nkambule\\desktop\\my stuff\\github\\inventory_system_api\\services_interfaces\\wificontrollerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F798D80B-8AC0-4665-AD13-67A44FFCBF8C}|Inventory_System_API.csproj|solutionrelative:services_interfaces\\wificontrollerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F798D80B-8AC0-4665-AD13-67A44FFCBF8C}|Inventory_System_API.csproj|c:\\users\\sandile.nkambule\\desktop\\my stuff\\github\\inventory_system_api\\services_interfaces\\tabletservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F798D80B-8AC0-4665-AD13-67A44FFCBF8C}|Inventory_System_API.csproj|solutionrelative:services_interfaces\\tabletservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F798D80B-8AC0-4665-AD13-67A44FFCBF8C}|Inventory_System_API.csproj|c:\\users\\sandile.nkambule\\desktop\\my stuff\\github\\inventory_system_api\\services_interfaces\\storagedeviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F798D80B-8AC0-4665-AD13-67A44FFCBF8C}|Inventory_System_API.csproj|solutionrelative:services_interfaces\\storagedeviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F798D80B-8AC0-4665-AD13-67A44FFCBF8C}|Inventory_System_API.csproj|c:\\users\\sandile.nkambule\\desktop\\my stuff\\github\\inventory_system_api\\services_interfaces\\server\u0026switchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F798D80B-8AC0-4665-AD13-67A44FFCBF8C}|Inventory_System_API.csproj|solutionrelative:services_interfaces\\server\u0026switchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F798D80B-8AC0-4665-AD13-67A44FFCBF8C}|Inventory_System_API.csproj|c:\\users\\sandile.nkambule\\desktop\\my stuff\\github\\inventory_system_api\\services_interfaces\\printerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F798D80B-8AC0-4665-AD13-67A44FFCBF8C}|Inventory_System_API.csproj|solutionrelative:services_interfaces\\printerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F798D80B-8AC0-4665-AD13-67A44FFCBF8C}|Inventory_System_API.csproj|c:\\users\\sandile.nkambule\\desktop\\my stuff\\github\\inventory_system_api\\services_interfaces\\mobileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F798D80B-8AC0-4665-AD13-67A44FFCBF8C}|Inventory_System_API.csproj|solutionrelative:services_interfaces\\mobileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F798D80B-8AC0-4665-AD13-67A44FFCBF8C}|Inventory_System_API.csproj|c:\\users\\sandile.nkambule\\desktop\\my stuff\\github\\inventory_system_api\\services_interfaces\\firewallservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F798D80B-8AC0-4665-AD13-67A44FFCBF8C}|Inventory_System_API.csproj|solutionrelative:services_interfaces\\firewallservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F798D80B-8AC0-4665-AD13-67A44FFCBF8C}|Inventory_System_API.csproj|c:\\users\\sandile.nkambule\\desktop\\my stuff\\github\\inventory_system_api\\services_interfaces\\computercountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F798D80B-8AC0-4665-AD13-67A44FFCBF8C}|Inventory_System_API.csproj|solutionrelative:services_interfaces\\computercountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F798D80B-8AC0-4665-AD13-67A44FFCBF8C}|Inventory_System_API.csproj|c:\\users\\sandile.nkambule\\desktop\\my stuff\\github\\inventory_system_api\\services_interfaces\\biometricdeviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F798D80B-8AC0-4665-AD13-67A44FFCBF8C}|Inventory_System_API.csproj|solutionrelative:services_interfaces\\biometricdeviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F798D80B-8AC0-4665-AD13-67A44FFCBF8C}|Inventory_System_API.csproj|c:\\users\\sandile.nkambule\\desktop\\my stuff\\github\\inventory_system_api\\services_interfaces\\accesspointservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F798D80B-8AC0-4665-AD13-67A44FFCBF8C}|Inventory_System_API.csproj|solutionrelative:services_interfaces\\accesspointservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F798D80B-8AC0-4665-AD13-67A44FFCBF8C}|Inventory_System_API.csproj|c:\\users\\sandile.nkambule\\desktop\\my stuff\\github\\inventory_system_api\\models\\desktop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F798D80B-8AC0-4665-AD13-67A44FFCBF8C}|Inventory_System_API.csproj|solutionrelative:models\\desktop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F798D80B-8AC0-4665-AD13-67A44FFCBF8C}|Inventory_System_API.csproj|c:\\users\\sandile.nkambule\\desktop\\my stuff\\github\\inventory_system_api\\models\\tablets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F798D80B-8AC0-4665-AD13-67A44FFCBF8C}|Inventory_System_API.csproj|solutionrelative:models\\tablets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F798D80B-8AC0-4665-AD13-67A44FFCBF8C}|Inventory_System_API.csproj|c:\\users\\sandile.nkambule\\desktop\\my stuff\\github\\inventory_system_api\\models\\mobilephones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F798D80B-8AC0-4665-AD13-67A44FFCBF8C}|Inventory_System_API.csproj|solutionrelative:models\\mobilephones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F798D80B-8AC0-4665-AD13-67A44FFCBF8C}|Inventory_System_API.csproj|c:\\users\\sandile.nkambule\\desktop\\my stuff\\github\\inventory_system_api\\services_interfaces\\idevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F798D80B-8AC0-4665-AD13-67A44FFCBF8C}|Inventory_System_API.csproj|solutionrelative:services_interfaces\\idevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 268,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeviceDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Sandile.Nkambule\\Desktop\\mY STUFF\\GITHUB\\Inventory_System_API\\Models\\DeviceDetails.cs",
+              "RelativeDocumentMoniker": "Models\\DeviceDetails.cs",
+              "ToolTip": "C:\\Users\\Sandile.Nkambule\\Desktop\\mY STUFF\\GITHUB\\Inventory_System_API\\Models\\DeviceDetails.cs",
+              "RelativeToolTip": "Models\\DeviceDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T07:24:02.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "log20250206.txt",
+              "DocumentMoniker": "C:\\Users\\Sandile.Nkambule\\Desktop\\mY STUFF\\GITHUB\\Inventory_System_API\\logs\\log20250206.txt",
+              "RelativeDocumentMoniker": "logs\\log20250206.txt",
+              "ToolTip": "C:\\Users\\Sandile.Nkambule\\Desktop\\mY STUFF\\GITHUB\\Inventory_System_API\\logs\\log20250206.txt",
+              "RelativeToolTip": "logs\\log20250206.txt",
+              "ViewState": "AgIAANEJAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-06T07:03:16.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportService.cs",
+              "DocumentMoniker": "C:\\Users\\Sandile.Nkambule\\Desktop\\mY STUFF\\GITHUB\\Inventory_System_API\\Services_Interfaces\\ReportService.cs",
+              "RelativeDocumentMoniker": "Services_Interfaces\\ReportService.cs",
+              "ToolTip": "C:\\Users\\Sandile.Nkambule\\Desktop\\mY STUFF\\GITHUB\\Inventory_System_API\\Services_Interfaces\\ReportService.cs*",
+              "RelativeToolTip": "Services_Interfaces\\ReportService.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAEwNMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T15:37:40.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sandile.Nkambule\\Desktop\\mY STUFF\\GITHUB\\Inventory_System_API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Sandile.Nkambule\\Desktop\\mY STUFF\\GITHUB\\Inventory_System_API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAjwJIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T06:51:14.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "C:\\Users\\Sandile.Nkambule\\Desktop\\mY STUFF\\GITHUB\\Inventory_System_API\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReportController.cs",
+              "ToolTip": "C:\\Users\\Sandile.Nkambule\\Desktop\\mY STUFF\\GITHUB\\Inventory_System_API\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "Controllers\\ReportController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T06:39:38.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TurnstileService.cs",
+              "DocumentMoniker": "C:\\Users\\Sandile.Nkambule\\Desktop\\mY STUFF\\GITHUB\\Inventory_System_API\\Services_Interfaces\\TurnstileService.cs",
+              "RelativeDocumentMoniker": "Services_Interfaces\\TurnstileService.cs",
+              "ToolTip": "C:\\Users\\Sandile.Nkambule\\Desktop\\mY STUFF\\GITHUB\\Inventory_System_API\\Services_Interfaces\\TurnstileService.cs",
+              "RelativeToolTip": "Services_Interfaces\\TurnstileService.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAUwDQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T15:39:34.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeviceStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Sandile.Nkambule\\Desktop\\mY STUFF\\GITHUB\\Inventory_System_API\\Models\\DeviceStatus.cs",
+              "RelativeDocumentMoniker": "Models\\DeviceStatus.cs",
+              "ToolTip": "C:\\Users\\Sandile.Nkambule\\Desktop\\mY STUFF\\GITHUB\\Inventory_System_API\\Models\\DeviceStatus.cs",
+              "RelativeToolTip": "Models\\DeviceStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T06:04:52.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TabletService.cs",
+              "DocumentMoniker": "C:\\Users\\Sandile.Nkambule\\Desktop\\mY STUFF\\GITHUB\\Inventory_System_API\\Services_Interfaces\\TabletService.cs",
+              "RelativeDocumentMoniker": "Services_Interfaces\\TabletService.cs",
+              "ToolTip": "C:\\Users\\Sandile.Nkambule\\Desktop\\mY STUFF\\GITHUB\\Inventory_System_API\\Services_Interfaces\\TabletService.cs",
+              "RelativeToolTip": "Services_Interfaces\\TabletService.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAkwIgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T15:39:07.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StorageDeviceService.cs",
+              "DocumentMoniker": "C:\\Users\\Sandile.Nkambule\\Desktop\\mY STUFF\\GITHUB\\Inventory_System_API\\Services_Interfaces\\StorageDeviceService.cs",
+              "RelativeDocumentMoniker": "Services_Interfaces\\StorageDeviceService.cs",
+              "ToolTip": "C:\\Users\\Sandile.Nkambule\\Desktop\\mY STUFF\\GITHUB\\Inventory_System_API\\Services_Interfaces\\StorageDeviceService.cs",
+              "RelativeToolTip": "Services_Interfaces\\StorageDeviceService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwBoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T15:38:50.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Server\u0026SwitchService.cs",
+              "DocumentMoniker": "C:\\Users\\Sandile.Nkambule\\Desktop\\mY STUFF\\GITHUB\\Inventory_System_API\\Services_Interfaces\\Server\u0026SwitchService.cs",
+              "RelativeDocumentMoniker": "Services_Interfaces\\Server\u0026SwitchService.cs",
+              "ToolTip": "C:\\Users\\Sandile.Nkambule\\Desktop\\mY STUFF\\GITHUB\\Inventory_System_API\\Services_Interfaces\\Server\u0026SwitchService.cs",
+              "RelativeToolTip": "Services_Interfaces\\Server\u0026SwitchService.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAQwI8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T15:38:05.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Laptop.cs",
+              "DocumentMoniker": "C:\\Users\\Sandile.Nkambule\\Desktop\\mY STUFF\\GITHUB\\Inventory_System_API\\Models\\Laptop.cs",
+              "RelativeDocumentMoniker": "Models\\Laptop.cs",
+              "ToolTip": "C:\\Users\\Sandile.Nkambule\\Desktop\\mY STUFF\\GITHUB\\Inventory_System_API\\Models\\Laptop.cs",
+              "RelativeToolTip": "Models\\Laptop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T15:22:21.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeviceDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Sandile.Nkambule\\Desktop\\mY STUFF\\GITHUB\\Inventory_System_API\\Models\\DeviceDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DeviceDTO.cs",
+              "ToolTip": "C:\\Users\\Sandile.Nkambule\\Desktop\\mY STUFF\\GITHUB\\Inventory_System_API\\Models\\DeviceDTO.cs",
+              "RelativeToolTip": "Models\\DeviceDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T07:23:48.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PrinterService.cs",
+              "DocumentMoniker": "C:\\Users\\Sandile.Nkambule\\Desktop\\mY STUFF\\GITHUB\\Inventory_System_API\\Services_Interfaces\\PrinterService.cs",
+              "RelativeDocumentMoniker": "Services_Interfaces\\PrinterService.cs",
+              "ToolTip": "C:\\Users\\Sandile.Nkambule\\Desktop\\mY STUFF\\GITHUB\\Inventory_System_API\\Services_Interfaces\\PrinterService.cs",
+              "RelativeToolTip": "Services_Interfaces\\PrinterService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAwB0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T15:35:40.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MobileService.cs",
+              "DocumentMoniker": "C:\\Users\\Sandile.Nkambule\\Desktop\\mY STUFF\\GITHUB\\Inventory_System_API\\Services_Interfaces\\MobileService.cs",
+              "RelativeDocumentMoniker": "Services_Interfaces\\MobileService.cs",
+              "ToolTip": "C:\\Users\\Sandile.Nkambule\\Desktop\\mY STUFF\\GITHUB\\Inventory_System_API\\Services_Interfaces\\MobileService.cs",
+              "RelativeToolTip": "Services_Interfaces\\MobileService.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAQwIMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T15:35:21.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FirewallService.cs",
+              "DocumentMoniker": "C:\\Users\\Sandile.Nkambule\\Desktop\\mY STUFF\\GITHUB\\Inventory_System_API\\Services_Interfaces\\FirewallService.cs",
+              "RelativeDocumentMoniker": "Services_Interfaces\\FirewallService.cs",
+              "ToolTip": "C:\\Users\\Sandile.Nkambule\\Desktop\\mY STUFF\\GITHUB\\Inventory_System_API\\Services_Interfaces\\FirewallService.cs",
+              "RelativeToolTip": "Services_Interfaces\\FirewallService.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwDwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T15:34:50.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ComputerCountService.cs",
+              "DocumentMoniker": "C:\\Users\\Sandile.Nkambule\\Desktop\\mY STUFF\\GITHUB\\Inventory_System_API\\Services_Interfaces\\ComputerCountService.cs",
+              "RelativeDocumentMoniker": "Services_Interfaces\\ComputerCountService.cs",
+              "ToolTip": "C:\\Users\\Sandile.Nkambule\\Desktop\\mY STUFF\\GITHUB\\Inventory_System_API\\Services_Interfaces\\ComputerCountService.cs",
+              "RelativeToolTip": "Services_Interfaces\\ComputerCountService.cs",
+              "ViewState": "AgIAAG8BAAAAAAAAAADwv3MBAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T15:34:05.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Devices.cs",
+              "DocumentMoniker": "C:\\Users\\Sandile.Nkambule\\Desktop\\mY STUFF\\GITHUB\\Inventory_System_API\\Models\\Devices.cs",
+              "RelativeDocumentMoniker": "Models\\Devices.cs",
+              "ToolTip": "C:\\Users\\Sandile.Nkambule\\Desktop\\mY STUFF\\GITHUB\\Inventory_System_API\\Models\\Devices.cs",
+              "RelativeToolTip": "Models\\Devices.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAQwIUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T15:21:02.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WifiControllerService.cs",
+              "DocumentMoniker": "C:\\Users\\Sandile.Nkambule\\Desktop\\mY STUFF\\GITHUB\\Inventory_System_API\\Services_Interfaces\\WifiControllerService.cs",
+              "RelativeDocumentMoniker": "Services_Interfaces\\WifiControllerService.cs",
+              "ToolTip": "C:\\Users\\Sandile.Nkambule\\Desktop\\mY STUFF\\GITHUB\\Inventory_System_API\\Services_Interfaces\\WifiControllerService.cs",
+              "RelativeToolTip": "Services_Interfaces\\WifiControllerService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwBoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T15:40:06.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BiometricDeviceService.cs",
+              "DocumentMoniker": "C:\\Users\\Sandile.Nkambule\\Desktop\\mY STUFF\\GITHUB\\Inventory_System_API\\Services_Interfaces\\BiometricDeviceService.cs",
+              "RelativeDocumentMoniker": "Services_Interfaces\\BiometricDeviceService.cs",
+              "ToolTip": "C:\\Users\\Sandile.Nkambule\\Desktop\\mY STUFF\\GITHUB\\Inventory_System_API\\Services_Interfaces\\BiometricDeviceService.cs",
+              "RelativeToolTip": "Services_Interfaces\\BiometricDeviceService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswBEAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T15:33:47.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AccessPointService.cs",
+              "DocumentMoniker": "C:\\Users\\Sandile.Nkambule\\Desktop\\mY STUFF\\GITHUB\\Inventory_System_API\\Services_Interfaces\\AccessPointService.cs",
+              "RelativeDocumentMoniker": "Services_Interfaces\\AccessPointService.cs",
+              "ToolTip": "C:\\Users\\Sandile.Nkambule\\Desktop\\mY STUFF\\GITHUB\\Inventory_System_API\\Services_Interfaces\\AccessPointService.cs",
+              "RelativeToolTip": "Services_Interfaces\\AccessPointService.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAswDUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T15:33:19.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Tablets.cs",
+              "DocumentMoniker": "C:\\Users\\Sandile.Nkambule\\Desktop\\mY STUFF\\GITHUB\\Inventory_System_API\\Models\\Tablets.cs",
+              "RelativeDocumentMoniker": "Models\\Tablets.cs",
+              "ToolTip": "C:\\Users\\Sandile.Nkambule\\Desktop\\mY STUFF\\GITHUB\\Inventory_System_API\\Models\\Tablets.cs",
+              "RelativeToolTip": "Models\\Tablets.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA3wBcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T15:32:24.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Mobilephones.cs",
+              "DocumentMoniker": "C:\\Users\\Sandile.Nkambule\\Desktop\\mY STUFF\\GITHUB\\Inventory_System_API\\Models\\Mobilephones.cs",
+              "RelativeDocumentMoniker": "Models\\Mobilephones.cs",
+              "ToolTip": "C:\\Users\\Sandile.Nkambule\\Desktop\\mY STUFF\\GITHUB\\Inventory_System_API\\Models\\Mobilephones.cs",
+              "RelativeToolTip": "Models\\Mobilephones.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA9wBgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T15:31:45.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Desktop.cs",
+              "DocumentMoniker": "C:\\Users\\Sandile.Nkambule\\Desktop\\mY STUFF\\GITHUB\\Inventory_System_API\\Models\\Desktop.cs",
+              "RelativeDocumentMoniker": "Models\\Desktop.cs",
+              "ToolTip": "C:\\Users\\Sandile.Nkambule\\Desktop\\mY STUFF\\GITHUB\\Inventory_System_API\\Models\\Desktop.cs",
+              "RelativeToolTip": "Models\\Desktop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T15:17:55.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IDevice.cs",
+              "DocumentMoniker": "C:\\Users\\Sandile.Nkambule\\Desktop\\mY STUFF\\GITHUB\\Inventory_System_API\\Services_Interfaces\\IDevice.cs",
+              "RelativeDocumentMoniker": "Services_Interfaces\\IDevice.cs",
+              "ToolTip": "C:\\Users\\Sandile.Nkambule\\Desktop\\mY STUFF\\GITHUB\\Inventory_System_API\\Services_Interfaces\\IDevice.cs",
+              "RelativeToolTip": "Services_Interfaces\\IDevice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T15:17:39.474Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
