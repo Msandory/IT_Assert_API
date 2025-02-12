@@ -1,0 +1,36 @@
+2025-02-12 12:13:31.297 +02:00 [INF] User profile is available. Using 'C:\Users\Sandile.Nkambule\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-02-12 12:13:31.634 +02:00 [WRN] Overriding address(es) 'http://localhost:5227'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2025-02-12 12:13:31.683 +02:00 [INF] Now listening on: http://0.0.0.0:5227
+2025-02-12 12:13:31.967 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-12 12:13:31.967 +02:00 [INF] Hosting environment: Development
+2025-02-12 12:13:31.967 +02:00 [INF] Content root path: C:\Users\Sandile.Nkambule\Desktop\mY STUFF\GITHUB\IT_Assert_API
+2025-02-12 12:13:33.234 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5227/swagger/index.html - null null
+2025-02-12 12:13:33.651 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5227/_framework/aspnetcore-browser-refresh.js - null null
+2025-02-12 12:13:33.705 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5227/_vs/browserLink - null null
+2025-02-12 12:13:33.714 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5227/swagger/index.html - 200 null text/html;charset=utf-8 488.1454ms
+2025-02-12 12:13:33.721 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5227/_framework/aspnetcore-browser-refresh.js - 200 13792 application/javascript; charset=utf-8 69.2222ms
+2025-02-12 12:13:33.842 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5227/_vs/browserLink - 200 null text/javascript; charset=UTF-8 137.4875ms
+2025-02-12 12:13:35.927 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5227/swagger/v1/swagger.json - null null
+2025-02-12 12:13:36.284 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5227/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 357.0316ms
+2025-02-12 15:09:41.546 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5227/api/ComputerCount/age-distribution - null null
+2025-02-12 15:09:41.654 +02:00 [WRN] Failed to determine the https port for redirect.
+2025-02-12 15:09:41.716 +02:00 [INF] Executing endpoint 'ComputerCountController.GetAgeDistribution (Inventory_System_API)'
+2025-02-12 15:09:41.797 +02:00 [INF] Route matched with {action = "GetAgeDistribution", controller = "ComputerCount"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAgeDistribution() on controller ComputerCountController (Inventory_System_API).
+2025-02-12 15:09:44.750 +02:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Inventory_System_API.Models.AgeDistribution, Inventory_System_API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-02-12 15:09:44.946 +02:00 [INF] Executed action ComputerCountController.GetAgeDistribution (Inventory_System_API) in 3127.4032ms
+2025-02-12 15:09:44.947 +02:00 [INF] Executed endpoint 'ComputerCountController.GetAgeDistribution (Inventory_System_API)'
+2025-02-12 15:09:44.958 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5227/api/ComputerCount/age-distribution - 200 412 application/json; charset=utf-8 3421.2359ms
+2025-02-12 15:24:37.562 +02:00 [INF] User profile is available. Using 'C:\Users\Sandile.Nkambule\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-02-12 15:24:37.970 +02:00 [WRN] Overriding address(es) 'http://localhost:5227'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2025-02-12 15:24:38.037 +02:00 [INF] Now listening on: http://0.0.0.0:5227
+2025-02-12 15:24:38.358 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-12 15:24:38.358 +02:00 [INF] Hosting environment: Development
+2025-02-12 15:24:38.358 +02:00 [INF] Content root path: C:\Users\Sandile.Nkambule\Desktop\mY STUFF\GITHUB\IT_Assert_API
+2025-02-12 15:24:38.977 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5227/swagger/index.html - null null
+2025-02-12 15:24:39.404 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5227/swagger/index.html - 200 null text/html;charset=utf-8 438.1561ms
+2025-02-12 15:24:39.495 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5227/_framework/aspnetcore-browser-refresh.js - null null
+2025-02-12 15:24:39.504 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5227/_framework/aspnetcore-browser-refresh.js - 200 13792 application/javascript; charset=utf-8 8.3263ms
+2025-02-12 15:24:39.508 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5227/_vs/browserLink - null null
+2025-02-12 15:24:39.766 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5227/_vs/browserLink - 200 null text/javascript; charset=UTF-8 258.1517ms
+2025-02-12 15:24:45.638 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5227/swagger/v1/swagger.json - null null
+2025-02-12 15:24:45.751 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5227/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 112.667ms

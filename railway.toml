@@ -1,0 +1,7 @@
+﻿[build]
+builder = "DOCKERFILE"
+dockerfilePath = "Dockerfile"
+
+[deploy]
+startCommand = "dotnet YourProjectName.dll"
+restartPolicyType = "ON_FAILURE"
